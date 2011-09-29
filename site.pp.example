@@ -1,5 +1,6 @@
 # site.pp
 
+import "modules"
 import "templates"
 import "nodes"
 
